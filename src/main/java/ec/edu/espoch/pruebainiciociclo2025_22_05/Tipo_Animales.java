@@ -8,6 +8,13 @@ package ec.edu.espoch.pruebainiciociclo2025_22_05;
  *
  * @author Usuario
  */
-public class Tipo_Animales {
+public enum Tipo_Animales {
+    
+    PERRO,
+    GATO,
+    AVE,
+      
     
 }
+
+    
